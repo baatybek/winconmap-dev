@@ -6,8 +6,8 @@ of all procurements concluded by the state and making this information available
 money is spent. Establishing contract registries can be a powerful tool to
 highlight the way in which taxpayers’ money is used.
 There are public contract registries in the Czech Republic and one of the
-is Hl´ıdaˇc st´atu: https://www.hlidacstatu.cz/. Hlídač Státu is a non-profit
-organization whose goal is to make the state administration completely transparent. The Hl´ıdaˇc st´atu is a web platform where they check, analyze and link
+is Hlídač státu: https://www.hlidacstatu.cz/. Hlídač Státu is a non-profit
+organization whose goal is to make the state administration completely transparent. The Hlídač Státu is a web platform where they check, analyze and link
 contracts from the register of contracts, public contracts, subsidies, sponsors
 of political parties and politics in one place.
 
@@ -15,7 +15,7 @@ The primary objective of this thesis is to design, implement and test a website
 that will present the winners of public contracts in the Czech Republic. The
 main widget should be a map with regions and based on the zoom level other
 dashboards will be updated. The software project relies on data sets provided
-by Hl´ıdaˇc st´atu API. The solutions provided by this thesis work will show the
+by Hlídač Státu API. The solutions provided by this thesis work will show the
 total amount of contracts, shares across the companies and if you choose one
 company then to show specific dashboard with a share in regions and in the
 area of similar contracts.

@@ -1,0 +1,483 @@
+[
+    {
+        "created": "2021-02-20T13:01:22.977212Z",
+        "dataType": "dataset.centralniregistroznameni",
+        "fulldump": true,
+        "size": 1524299,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=dataset.centralniregistroznameni&date="
+    },
+    {
+        "created": "2021-02-20T13:01:36.3937513Z",
+        "dataType": "dataset.clenove-kolegia-nku",
+        "fulldump": true,
+        "size": 675,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=dataset.clenove-kolegia-nku&date="
+    },
+    {
+        "created": "2021-02-20T13:01:48.5864203Z",
+        "dataType": "dataset.cz-nuts",
+        "fulldump": true,
+        "size": 738,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=dataset.cz-nuts&date="
+    },
+    {
+        "created": "2021-02-20T13:03:37.8181046Z",
+        "dataType": "dataset.de-minimis",
+        "fulldump": true,
+        "size": 5316111,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=dataset.de-minimis&date="
+    },
+    {
+        "created": "2021-02-20T13:04:01.5279416Z",
+        "dataType": "dataset.dotinfo",
+        "fulldump": true,
+        "size": 784749,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=dataset.dotinfo&date="
+    },
+    {
+        "created": "2021-02-20T13:04:14.2139613Z",
+        "dataType": "dataset.faktury-mesto-plasy-2018",
+        "fulldump": true,
+        "size": 5530,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=dataset.faktury-mesto-plasy-2018&date="
+    },
+    {
+        "created": "2021-02-20T13:04:26.5647427Z",
+        "dataType": "dataset.fond-hejtmanky-pokorne-jermanove",
+        "fulldump": true,
+        "size": 32523,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=dataset.fond-hejtmanky-pokorne-jermanove&date="
+    },
+    {
+        "created": "2021-02-20T13:04:48.3162083Z",
+        "dataType": "dataset.jednani-vlady",
+        "fulldump": true,
+        "size": 249867,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=dataset.jednani-vlady&date="
+    },
+    {
+        "created": "2021-02-20T13:05:10.5560212Z",
+        "dataType": "dataset.kapacity-jedn-nemocnic",
+        "fulldump": true,
+        "size": 531322,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=dataset.kapacity-jedn-nemocnic&date="
+    },
+    {
+        "created": "2021-02-20T13:05:22.946832Z",
+        "dataType": "dataset.kapacity-nemocnic",
+        "fulldump": true,
+        "size": 1900,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=dataset.kapacity-nemocnic&date="
+    },
+    {
+        "created": "2021-02-20T13:05:33.8025495Z",
+        "dataType": "dataset.kontrolni-akce-nku",
+        "fulldump": true,
+        "size": 7085,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=dataset.kontrolni-akce-nku&date="
+    },
+    {
+        "created": "2021-02-20T13:06:18.9706846Z",
+        "dataType": "dataset.kvalifikovanidodavatele",
+        "fulldump": true,
+        "size": 26621,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=dataset.kvalifikovanidodavatele&date="
+    },
+    {
+        "created": "2021-02-20T13:06:30.6719835Z",
+        "dataType": "dataset.materialy-zastupitelstva-jmk",
+        "fulldump": true,
+        "size": 1400,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=dataset.materialy-zastupitelstva-jmk&date="
+    },
+    {
+        "created": "2021-02-20T13:06:42.6144948Z",
+        "dataType": "dataset.ministri",
+        "fulldump": true,
+        "size": 1588,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=dataset.ministri&date="
+    },
+    {
+        "created": "2021-02-20T13:08:34.4820122Z",
+        "dataType": "dataset.ministry-invoices",
+        "fulldump": true,
+        "size": 20129083,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=dataset.ministry-invoices&date="
+    },
+    {
+        "created": "2021-02-20T13:08:53.362436Z",
+        "dataType": "dataset.narodni-investicni-plan",
+        "fulldump": true,
+        "size": 566107,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=dataset.narodni-investicni-plan&date="
+    },
+    {
+        "created": "2020-12-26T13:10:32.6180137Z",
+        "dataType": "dataset.osoby-kontrolovane-nku-test",
+        "fulldump": true,
+        "size": 7685,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=dataset.osoby-kontrolovane-nku-test&date="
+    },
+    {
+        "created": "2021-02-20T13:09:08.3931232Z",
+        "dataType": "dataset.osoby-kontrolovane-nku",
+        "fulldump": true,
+        "size": 104848,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=dataset.osoby-kontrolovane-nku&date="
+    },
+    {
+        "created": "2021-01-23T13:10:49.1470046Z",
+        "dataType": "dataset.osoby-kontrolovane-nkutest",
+        "fulldump": true,
+        "size": 96639,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=dataset.osoby-kontrolovane-nkutest&date="
+    },
+    {
+        "created": "2021-02-20T13:09:21.6745868Z",
+        "dataType": "dataset.pomoc-covid",
+        "fulldump": true,
+        "size": 631,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=dataset.pomoc-covid&date="
+    },
+    {
+        "created": "2021-02-20T13:09:34.4216298Z",
+        "dataType": "dataset.prijemci-podpory-covid-programu",
+        "fulldump": true,
+        "size": 29539,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=dataset.prijemci-podpory-covid-programu&date="
+    },
+    {
+        "created": "2021-02-20T13:10:38.9795302Z",
+        "dataType": "dataset.prijemcidotaci",
+        "fulldump": true,
+        "size": 9682515,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=dataset.prijemcidotaci&date="
+    },
+    {
+        "created": "2021-02-20T13:10:51.6985735Z",
+        "dataType": "dataset.publicchargingstations",
+        "fulldump": true,
+        "size": 2314,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=dataset.publicchargingstations&date="
+    },
+    {
+        "created": "2021-02-20T13:11:03.8272171Z",
+        "dataType": "dataset.rada-ceske-televize",
+        "fulldump": true,
+        "size": 2675,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=dataset.rada-ceske-televize&date="
+    },
+    {
+        "created": "2021-02-20T13:11:15.9818597Z",
+        "dataType": "dataset.rejstrik-trestu-pravnickych-osob",
+        "fulldump": true,
+        "size": 11129,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=dataset.rejstrik-trestu-pravnickych-osob&date="
+    },
+    {
+        "created": "2020-12-13T17:45:01.2556605Z",
+        "dataType": "dataset.rozhodnuti-uohs",
+        "fulldump": true,
+        "size": 38663,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=dataset.rozhodnuti-uohs&date="
+    },
+    {
+        "created": "2021-02-20T13:12:01.0619114Z",
+        "dataType": "dataset.seznam-politickych-stran",
+        "fulldump": true,
+        "size": 6046,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=dataset.seznam-politickych-stran&date="
+    },
+    {
+        "created": "2021-02-20T13:12:17.8148229Z",
+        "dataType": "dataset.stav-mostu",
+        "fulldump": true,
+        "size": 573027,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=dataset.stav-mostu&date="
+    },
+    {
+        "created": "2021-02-20T13:13:42.459985Z",
+        "dataType": "dataset.stenozaznamy-psp",
+        "fulldump": true,
+        "size": 3905329,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=dataset.stenozaznamy-psp&date="
+    },
+    {
+        "created": "2021-02-20T13:13:54.6206517Z",
+        "dataType": "dataset.test-iqrh0idu0k",
+        "fulldump": true,
+        "size": 267,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=dataset.test-iqrh0idu0k&date="
+    },
+    {
+        "created": "2021-02-20T13:14:41.9252855Z",
+        "dataType": "dataset.tiskove-konference-vlady",
+        "fulldump": true,
+        "size": 15439,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=dataset.tiskove-konference-vlady&date="
+    },
+    {
+        "created": "2021-02-20T13:15:37.0364693Z",
+        "dataType": "dataset.transparentni-ucty-transakce",
+        "fulldump": true,
+        "size": 4609248,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=dataset.transparentni-ucty-transakce&date="
+    },
+    {
+        "created": "2021-02-20T13:14:53.7196508Z",
+        "dataType": "dataset.transparentni-ucty",
+        "fulldump": true,
+        "size": 6004,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=dataset.transparentni-ucty&date="
+    },
+    {
+        "created": "2021-02-20T13:17:10.3207948Z",
+        "dataType": "dataset.veklep",
+        "fulldump": true,
+        "size": 92600,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=dataset.veklep&date="
+    },
+    {
+        "created": "2021-02-20T13:17:23.1629254Z",
+        "dataType": "dataset.vybory-psp",
+        "fulldump": true,
+        "size": 7551,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=dataset.vybory-psp&date="
+    },
+    {
+        "created": "2021-02-20T13:19:51.756576Z",
+        "dataType": "dataset.vyjadreni-politiku",
+        "fulldump": true,
+        "size": 21757603,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=dataset.vyjadreni-politiku&date="
+    },
+    {
+        "created": "2021-02-20T13:20:08.3983875Z",
+        "dataType": "dataset.zasedani-zastupitelstev",
+        "fulldump": true,
+        "size": 54777,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=dataset.zasedani-zastupitelstev&date="
+    },
+    {
+        "created": "2021-02-20T13:28:51.4633074Z",
+        "dataType": "dotace",
+        "fulldump": true,
+        "size": 68957211,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=dotace&date="
+    },
+    {
+        "created": "2020-12-13T19:09:35.6958895Z",
+        "dataType": "smlouvy",
+        "date": "2020-12-12T00:00:00+01:00",
+        "fulldump": false,
+        "size": 37116,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=smlouvy&date=2020-12-12"
+    },
+    {
+        "created": "2020-12-14T19:11:42.2759849Z",
+        "dataType": "smlouvy",
+        "date": "2020-12-13T00:00:00+01:00",
+        "fulldump": false,
+        "size": 1710374,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=smlouvy&date=2020-12-13"
+    },
+    {
+        "created": "2020-12-15T19:11:45.9282615Z",
+        "dataType": "smlouvy",
+        "date": "2020-12-14T00:00:00+01:00",
+        "fulldump": false,
+        "size": 1728676,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=smlouvy&date=2020-12-14"
+    },
+    {
+        "created": "2021-02-24T08:59:45.3912897Z",
+        "dataType": "smlouvy",
+        "date": "2021-02-01T00:00:00+01:00",
+        "fulldump": false,
+        "size": 300,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=smlouvy&date=2021-02-01"
+    },
+    {
+        "created": "2021-02-24T08:59:55.5805342Z",
+        "dataType": "smlouvy",
+        "date": "2021-02-02T00:00:00+01:00",
+        "fulldump": false,
+        "size": 2680,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=smlouvy&date=2021-02-02"
+    },
+    {
+        "created": "2021-02-24T09:00:07.194792Z",
+        "dataType": "smlouvy",
+        "date": "2021-02-03T00:00:00+01:00",
+        "fulldump": false,
+        "size": 2449,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=smlouvy&date=2021-02-03"
+    },
+    {
+        "created": "2021-02-24T09:00:19.4064747Z",
+        "dataType": "smlouvy",
+        "date": "2021-02-04T00:00:00+01:00",
+        "fulldump": false,
+        "size": 2198,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=smlouvy&date=2021-02-04"
+    },
+    {
+        "created": "2021-02-24T09:00:31.6681922Z",
+        "dataType": "smlouvy",
+        "date": "2021-02-05T00:00:00+01:00",
+        "fulldump": false,
+        "size": 2302,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=smlouvy&date=2021-02-05"
+    },
+    {
+        "created": "2021-02-24T09:00:43.7928334Z",
+        "dataType": "smlouvy",
+        "date": "2021-02-06T00:00:00+01:00",
+        "fulldump": false,
+        "size": 2480,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=smlouvy&date=2021-02-06"
+    },
+    {
+        "created": "2021-02-24T09:00:55.9744954Z",
+        "dataType": "smlouvy",
+        "date": "2021-02-07T00:00:00+01:00",
+        "fulldump": false,
+        "size": 219,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=smlouvy&date=2021-02-07"
+    },
+    {
+        "created": "2021-02-24T09:01:26.363081Z",
+        "dataType": "smlouvy",
+        "date": "2021-02-08T00:00:00+01:00",
+        "fulldump": false,
+        "size": 4758626,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=smlouvy&date=2021-02-08"
+    },
+    {
+        "created": "2021-02-24T09:01:38.6908459Z",
+        "dataType": "smlouvy",
+        "date": "2021-02-09T00:00:00+01:00",
+        "fulldump": false,
+        "size": 23655,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=smlouvy&date=2021-02-09"
+    },
+    {
+        "created": "2021-02-24T09:01:51.1437208Z",
+        "dataType": "smlouvy",
+        "date": "2021-02-10T00:00:00+01:00",
+        "fulldump": false,
+        "size": 24016,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=smlouvy&date=2021-02-10"
+    },
+    {
+        "created": "2021-02-24T09:02:03.4304404Z",
+        "dataType": "smlouvy",
+        "date": "2021-02-11T00:00:00+01:00",
+        "fulldump": false,
+        "size": 1610,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=smlouvy&date=2021-02-11"
+    },
+    {
+        "created": "2021-02-24T09:02:15.9083276Z",
+        "dataType": "smlouvy",
+        "date": "2021-02-12T00:00:00+01:00",
+        "fulldump": false,
+        "size": 2149,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=smlouvy&date=2021-02-12"
+    },
+    {
+        "created": "2021-02-24T09:02:28.1450077Z",
+        "dataType": "smlouvy",
+        "date": "2021-02-13T00:00:00+01:00",
+        "fulldump": false,
+        "size": 1892,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=smlouvy&date=2021-02-13"
+    },
+    {
+        "created": "2021-02-24T09:02:40.6348878Z",
+        "dataType": "smlouvy",
+        "date": "2021-02-14T00:00:00+01:00",
+        "fulldump": false,
+        "size": 56738,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=smlouvy&date=2021-02-14"
+    },
+    {
+        "created": "2021-02-24T09:02:52.8846184Z",
+        "dataType": "smlouvy",
+        "date": "2021-02-15T00:00:00+01:00",
+        "fulldump": false,
+        "size": 916,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=smlouvy&date=2021-02-15"
+    },
+    {
+        "created": "2021-02-24T09:03:05.1883666Z",
+        "dataType": "smlouvy",
+        "date": "2021-02-16T00:00:00+01:00",
+        "fulldump": false,
+        "size": 1185,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=smlouvy&date=2021-02-16"
+    },
+    {
+        "created": "2021-02-24T09:03:17.230908Z",
+        "dataType": "smlouvy",
+        "date": "2021-02-17T00:00:00+01:00",
+        "fulldump": false,
+        "size": 48700,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=smlouvy&date=2021-02-17"
+    },
+    {
+        "created": "2021-02-24T09:03:29.5086373Z",
+        "dataType": "smlouvy",
+        "date": "2021-02-18T00:00:00+01:00",
+        "fulldump": false,
+        "size": 8988,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=smlouvy&date=2021-02-18"
+    },
+    {
+        "created": "2021-02-24T09:03:41.5471967Z",
+        "dataType": "smlouvy",
+        "date": "2021-02-19T00:00:00+01:00",
+        "fulldump": false,
+        "size": 52653,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=smlouvy&date=2021-02-19"
+    },
+    {
+        "created": "2021-02-24T09:03:53.3615968Z",
+        "dataType": "smlouvy",
+        "date": "2021-02-20T00:00:00+01:00",
+        "fulldump": false,
+        "size": 1453,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=smlouvy&date=2021-02-20"
+    },
+    {
+        "created": "2021-02-24T19:09:31.100911Z",
+        "dataType": "smlouvy",
+        "date": "2021-02-21T00:00:00+01:00",
+        "fulldump": false,
+        "size": 27200,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=smlouvy&date=2021-02-21"
+    },
+    {
+        "created": "2021-02-24T19:09:43.4536942Z",
+        "dataType": "smlouvy",
+        "date": "2021-02-22T00:00:00+01:00",
+        "fulldump": false,
+        "size": 1071,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=smlouvy&date=2021-02-22"
+    },
+    {
+        "created": "2021-02-24T19:09:56.225776Z",
+        "dataType": "smlouvy",
+        "date": "2021-02-23T00:00:00+01:00",
+        "fulldump": false,
+        "size": 32258,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=smlouvy&date=2021-02-23"
+    },
+    {
+        "created": "2020-12-13T17:21:14.6645006Z",
+        "dataType": "smlouvy",
+        "fulldump": true,
+        "size": 8500030,
+        "url": "https://www.hlidacstatu.cz/api/v1/dump?datatype=smlouvy&date="
+    }
+]

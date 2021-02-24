@@ -1,0 +1,1533 @@
+[
+    {
+        "Ico": "00303038",
+        "Jmeno": "M\u011bsto Mohelnice",
+        "Profile": "/subjekt/00303038",
+        "SocialniSite": [
+            {
+                "Id": "https://www.youtube.com/playlist?list=PLWjO8urlLXgroQpZzkx2Ta11mYLigf-TB",
+                "Type": "Youtube",
+                "Url": "https://www.youtube.com/playlist?list=PLWjO8urlLXgroQpZzkx2Ta11mYLigf-TB"
+            }
+        ]
+    },
+    {
+        "Ico": "00254061",
+        "Jmeno": "M\u011bsto Mari\u00e1nsk\u00e9 L\u00e1zn\u011b",
+        "Profile": "/subjekt/00254061",
+        "SocialniSite": [
+            {
+                "Id": "https://www.youtube.com/playlist?list=PL7kw9cr29vwKjQdYoyE01iAVIXeM0iRcV",
+                "Type": "Youtube",
+                "Url": "https://www.youtube.com/playlist?list=PL7kw9cr29vwKjQdYoyE01iAVIXeM0iRcV"
+            }
+        ]
+    },
+    {
+        "Ico": "00261891",
+        "Jmeno": "Statut\u00e1rn\u00ed m\u011bsto Chomutov",
+        "Profile": "/subjekt/00261891",
+        "SocialniSite": [
+            {
+                "Id": "https://www.youtube.com/playlist?list=UUgeQ3WRXy7LkfjBgK-KgH_g",
+                "Type": "Youtube",
+                "Url": "https://www.youtube.com/playlist?list=UUgeQ3WRXy7LkfjBgK-KgH_g"
+            },
+            {
+                "Id": "https://www.chomutov-mesto.cz/",
+                "Type": "WWW",
+                "Url": "https://www.chomutov-mesto.cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "00240117",
+        "Jmeno": "M\u011bsto \u010cel\u00e1kovice",
+        "Profile": "/subjekt/00240117",
+        "SocialniSite": [
+            {
+                "Id": "https://www.youtube.com/playlist?list=PLVfLFQzFtJCBocUo3iHb8pG0liV_JQJbr",
+                "Type": "Youtube",
+                "Url": "https://www.youtube.com/playlist?list=PLVfLFQzFtJCBocUo3iHb8pG0liV_JQJbr"
+            }
+        ]
+    },
+    {
+        "Ico": "00234877",
+        "Jmeno": "M\u011bsto Slan\u00fd",
+        "Profile": "/subjekt/00234877",
+        "SocialniSite": [
+            {
+                "Id": "https://www.youtube.com/playlist?list=PLpKWAcBbfL30cACpYEe4YSXZArpa0LduJ",
+                "Type": "Youtube",
+                "Url": "https://www.youtube.com/playlist?list=PLpKWAcBbfL30cACpYEe4YSXZArpa0LduJ"
+            }
+        ]
+    },
+    {
+        "Ico": "00297615",
+        "Jmeno": "M\u011bsto Rychvald",
+        "Profile": "/subjekt/00297615",
+        "SocialniSite": [
+            {
+                "Id": "https://www.youtube.com/playlist?list=PL_dp3CGybmyu5tYaxePwmmy4dJi-mcWyC",
+                "Type": "Youtube",
+                "Url": "https://www.youtube.com/playlist?list=PL_dp3CGybmyu5tYaxePwmmy4dJi-mcWyC"
+            }
+        ]
+    },
+    {
+        "Ico": "00261238",
+        "Jmeno": "Statut\u00e1rn\u00ed m\u011bsto D\u011b\u010d\u00edn",
+        "Profile": "/subjekt/00261238",
+        "SocialniSite": [
+            {
+                "Id": "https://www.youtube.com/playlist?list=PL42E541E873B85524",
+                "Type": "Youtube",
+                "Url": "https://www.youtube.com/playlist?list=PL42E541E873B85524"
+            },
+            {
+                "Id": "https://www.mmdecin.cz/",
+                "Type": "WWW",
+                "Url": "https://www.mmdecin.cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "70891095",
+        "Jmeno": "St\u0159edo\u010desk\u00fd kraj",
+        "Profile": "/subjekt/70891095",
+        "SocialniSite": [
+            {
+                "Id": "https://www.youtube.com/playlist?list=PLecl41_fsuxUsTAQ7-UeFg6i4QT-pBN7O",
+                "Type": "Youtube",
+                "Url": "https://www.youtube.com/playlist?list=PLecl41_fsuxUsTAQ7-UeFg6i4QT-pBN7O"
+            },
+            {
+                "Id": "https://www.kr-stredocesky.cz/",
+                "Type": "WWW",
+                "Url": "https://www.kr-stredocesky.cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "70889546",
+        "Jmeno": "Kr\u00e1lov\u00e9hradeck\u00fd kraj",
+        "Profile": "/subjekt/70889546",
+        "SocialniSite": [
+            {
+                "Id": "https://www.youtube.com/playlist?list=PLiTqdirDzniLfFHMlsO5dlgNj2w8Dd7UF",
+                "Type": "Youtube",
+                "Url": "https://www.youtube.com/playlist?list=PLiTqdirDzniLfFHMlsO5dlgNj2w8Dd7UF"
+            },
+            {
+                "Id": "http://www.kr-kralovehradecky.cz/",
+                "Type": "WWW",
+                "Url": "http://www.kr-kralovehradecky.cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "00257257",
+        "Jmeno": "M\u011bsto Star\u00fd Plzenec",
+        "Profile": "/subjekt/00257257",
+        "SocialniSite": [
+            {
+                "Id": "https://www.youtube.com/playlist?list=PLrLJ7DEEO9pCJssBHYN2D7DA57X3xfVuX",
+                "Type": "Youtube",
+                "Url": "https://www.youtube.com/playlist?list=PLrLJ7DEEO9pCJssBHYN2D7DA57X3xfVuX"
+            }
+        ]
+    },
+    {
+        "Ico": "00253383",
+        "Jmeno": "M\u011bsto Hor\u0161ovsk\u00fd T\u00fdn",
+        "Profile": "/subjekt/00253383",
+        "SocialniSite": [
+            {
+                "Id": "https://www.youtube.com/playlist?list=UUGojFGHU8yz_0JMuUNXFmwQ",
+                "Type": "Youtube",
+                "Url": "https://www.youtube.com/playlist?list=UUGojFGHU8yz_0JMuUNXFmwQ"
+            }
+        ]
+    },
+    {
+        "Ico": "00234516",
+        "Jmeno": "Statut\u00e1rn\u00ed m\u011bsto Kladno",
+        "Profile": "/subjekt/00234516",
+        "SocialniSite": [
+            {
+                "Id": "https://www.youtube.com/playlist?list=PLRMA6-_Qtbo0XDNbtceo8qjdI1WDGu3-j",
+                "Type": "Youtube",
+                "Url": "https://www.youtube.com/playlist?list=PLRMA6-_Qtbo0XDNbtceo8qjdI1WDGu3-j"
+            }
+        ]
+    },
+    {
+        "Ico": "00261939",
+        "Jmeno": "M\u011bsto Kl\u00e1\u0161terec nad Oh\u0159\u00ed",
+        "Profile": "/subjekt/00261939",
+        "SocialniSite": [
+            {
+                "Id": "https://www.youtube.com/playlist?list=UUejSqTXTiUVG-gsPNRPPspg",
+                "Type": "Youtube",
+                "Url": "https://www.youtube.com/playlist?list=UUejSqTXTiUVG-gsPNRPPspg"
+            }
+        ]
+    },
+    {
+        "Ico": "00256129",
+        "Jmeno": "M\u011bsto Su\u0161ice",
+        "Profile": "/subjekt/00256129",
+        "SocialniSite": [
+            {
+                "Id": "https://www.youtube.com/playlist?list=UUaCl-LnSTDE8AcQIgrBKCfQ",
+                "Type": "Youtube",
+                "Url": "https://www.youtube.com/playlist?list=UUaCl-LnSTDE8AcQIgrBKCfQ"
+            }
+        ]
+    },
+    {
+        "Ico": "00264474",
+        "Jmeno": "M\u011bsto Terez\u00edn",
+        "Profile": "/subjekt/00264474",
+        "SocialniSite": [
+            {
+                "Id": "https://www.youtube.com/playlist?list=UUBqq8br01Tuult8KsUo-qnA",
+                "Type": "Youtube",
+                "Url": "https://www.youtube.com/playlist?list=UUBqq8br01Tuult8KsUo-qnA"
+            }
+        ]
+    },
+    {
+        "Ico": "00283061",
+        "Jmeno": "M\u011bsto B\u0159eclav",
+        "Profile": "/subjekt/00283061",
+        "SocialniSite": [
+            {
+                "Id": "https://www.youtube.com/playlist?list=PLuYSJK-eajmXcCasmjuffHgwClAA9h7ua",
+                "Type": "Youtube",
+                "Url": "https://www.youtube.com/playlist?list=PLuYSJK-eajmXcCasmjuffHgwClAA9h7ua"
+            }
+        ]
+    },
+    {
+        "Ico": "00259489",
+        "Jmeno": "M\u011bsto Loket",
+        "Profile": "/subjekt/00259489",
+        "SocialniSite": [
+            {
+                "Id": "https://www.youtube.com/playlist?list=UUM5pklRdecCL-LxhE3FvvuQ",
+                "Type": "Youtube",
+                "Url": "https://www.youtube.com/playlist?list=UUM5pklRdecCL-LxhE3FvvuQ"
+            }
+        ]
+    },
+    {
+        "Ico": "00265781",
+        "Jmeno": "M\u011bsto \u017datec",
+        "Profile": "/subjekt/00265781",
+        "SocialniSite": [
+            {
+                "Id": "https://www.youtube.com/playlist?list=UUOed1sEVSUKeQfJUi2fR6aw",
+                "Type": "Youtube",
+                "Url": "https://www.youtube.com/playlist?list=UUOed1sEVSUKeQfJUi2fR6aw"
+            },
+            {
+                "Id": "https://www.mesto-zatec.cz/",
+                "Type": "WWW",
+                "Url": "https://www.mesto-zatec.cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "00276057",
+        "Jmeno": "M\u011bsto Rokytnice nad Jizerou",
+        "Profile": "/subjekt/00276057",
+        "SocialniSite": [
+            {
+                "Id": "https://www.youtube.com/playlist?list=PL00HD3jHDD0m8Tjxvk7tae5HITJZhwgm9",
+                "Type": "Youtube",
+                "Url": "https://www.youtube.com/playlist?list=PL00HD3jHDD0m8Tjxvk7tae5HITJZhwgm9"
+            }
+        ]
+    },
+    {
+        "Ico": "00297569",
+        "Jmeno": "M\u011bsto Bohum\u00edn",
+        "Profile": "/subjekt/00297569",
+        "SocialniSite": [
+            {
+                "Id": "https://www.youtube.com/playlist?list=PLE1DBDE45A70B869C",
+                "Type": "Youtube",
+                "Url": "https://www.youtube.com/playlist?list=PLE1DBDE45A70B869C"
+            }
+        ]
+    },
+    {
+        "Ico": "00300535",
+        "Jmeno": "Statut\u00e1rn\u00ed m\u011bsto Opava",
+        "Profile": "/subjekt/00300535",
+        "SocialniSite": [
+            {
+                "Id": "https://www.youtube.com/playlist?list=PLQylkfeWDAD0AFGeoU6sRqJfVqo2NQBtA",
+                "Type": "Youtube",
+                "Url": "https://www.youtube.com/playlist?list=PLQylkfeWDAD0AFGeoU6sRqJfVqo2NQBtA"
+            }
+        ]
+    },
+    {
+        "Ico": "00266621",
+        "Jmeno": "Statut\u00e1rn\u00ed m\u011bsto Teplice",
+        "Profile": "/subjekt/00266621",
+        "SocialniSite": [
+            {
+                "Id": "https://www.youtube.com/playlist?list=PLwwKUvfMfYF3xr2HMvJr2Q8fv5rWiYBlz",
+                "Type": "Youtube",
+                "Url": "https://www.youtube.com/playlist?list=PLwwKUvfMfYF3xr2HMvJr2Q8fv5rWiYBlz"
+            },
+            {
+                "Id": "http://www.teplice.cz/",
+                "Type": "WWW",
+                "Url": "http://www.teplice.cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "00239402",
+        "Jmeno": "M\u011bsto Lys\u00e1 nad Labem",
+        "Profile": "/subjekt/00239402",
+        "SocialniSite": [
+            {
+                "Id": "https://www.youtube.com/playlist?list=PLYr1UT-qGICjAnpEnVcgZ0BPVC-iw-ZFc",
+                "Type": "Youtube",
+                "Url": "https://www.youtube.com/playlist?list=PLYr1UT-qGICjAnpEnVcgZ0BPVC-iw-ZFc"
+            }
+        ]
+    },
+    {
+        "Ico": "00290629",
+        "Jmeno": "M\u011bsto T\u0159eb\u00ed\u010d",
+        "Profile": "/subjekt/00290629",
+        "SocialniSite": [
+            {
+                "Id": "https://www.youtube.com/playlist?list=PLb9qDUgb-wXDDtFBBVeRH5fXbdYlR3Jts",
+                "Type": "Youtube",
+                "Url": "https://www.youtube.com/playlist?list=PLb9qDUgb-wXDDtFBBVeRH5fXbdYlR3Jts"
+            }
+        ]
+    },
+    {
+        "Ico": "00063517",
+        "Jmeno": "M\u011bstsk\u00e1 \u010d\u00e1st Praha 3",
+        "Profile": "/subjekt/00063517",
+        "SocialniSite": [
+            {
+                "Id": "https://www.youtube.com/playlist?list=PLtCuBXt_NK_onWOwFVdeKXzoRejGD_xLs",
+                "Type": "Youtube",
+                "Url": "https://www.youtube.com/playlist?list=PLtCuBXt_NK_onWOwFVdeKXzoRejGD_xLs"
+            }
+        ]
+    },
+    {
+        "Ico": "00285145",
+        "Jmeno": "Obec Mut\u011bnice",
+        "Profile": "/subjekt/00285145",
+        "SocialniSite": [
+            {
+                "Id": "https://www.youtube.com/playlist?list=UU6x3DRxJ7C97iNDmrHpoLfQ",
+                "Type": "Youtube",
+                "Url": "https://www.youtube.com/playlist?list=UU6x3DRxJ7C97iNDmrHpoLfQ"
+            }
+        ]
+    },
+    {
+        "Ico": "00231126",
+        "Jmeno": "M\u011bstsk\u00e1 \u010d\u00e1st Praha 11",
+        "Profile": "/subjekt/00231126",
+        "SocialniSite": [
+            {
+                "Id": "https://www.youtube.com/playlist?list=PLdv6PMkHCHbUiQ25QlEadKD2qTkfC-Xst",
+                "Type": "Youtube",
+                "Url": "https://www.youtube.com/playlist?list=PLdv6PMkHCHbUiQ25QlEadKD2qTkfC-Xst"
+            }
+        ]
+    },
+    {
+        "Ico": "00276111",
+        "Jmeno": "M\u011bsto Semily",
+        "Profile": "/subjekt/00276111",
+        "SocialniSite": [
+            {
+                "Id": "https://www.youtube.com/playlist?list=PLY51Xqp_ZA8rBKPAjIYigJEIeKl3j-2MW",
+                "Type": "Youtube",
+                "Url": "https://www.youtube.com/playlist?list=PLY51Xqp_ZA8rBKPAjIYigJEIeKl3j-2MW"
+            }
+        ]
+    },
+    {
+        "Ico": "00231151",
+        "Jmeno": "M\u011bstsk\u00e1 \u010d\u00e1st Praha 12",
+        "Profile": "/subjekt/00231151",
+        "SocialniSite": [
+            {
+                "Id": "https://www.youtube.com/playlist?list=PLvT8uSt0rq-ap3u4xq8oGvGDX5H2cpqa0",
+                "Type": "Youtube",
+                "Url": "https://www.youtube.com/playlist?list=PLvT8uSt0rq-ap3u4xq8oGvGDX5H2cpqa0"
+            }
+        ]
+    },
+    {
+        "Ico": "00240192",
+        "Jmeno": "M\u011bstsk\u00e1 \u010d\u00e1st Praha 20",
+        "Profile": "/subjekt/00240192",
+        "SocialniSite": [
+            {
+                "Id": "https://www.youtube.com/playlist?list=PLkFFvXsQtP1-cLZRNCNv5Glu-8XlE25l0",
+                "Type": "Youtube",
+                "Url": "https://www.youtube.com/playlist?list=PLkFFvXsQtP1-cLZRNCNv5Glu-8XlE25l0"
+            }
+        ]
+    },
+    {
+        "Ico": "00231223",
+        "Jmeno": "M\u011bstsk\u00e1 \u010d\u00e1st Praha 17",
+        "Profile": "/subjekt/00231223",
+        "SocialniSite": [
+            {
+                "Id": "https://www.youtube.com/playlist?list=PLP-TmdjSGgvM5FKqSO4Cufe0Stg1bkXdB",
+                "Type": "Youtube",
+                "Url": "https://www.youtube.com/playlist?list=PLP-TmdjSGgvM5FKqSO4Cufe0Stg1bkXdB"
+            }
+        ]
+    },
+    {
+        "Ico": "00231363",
+        "Jmeno": "M\u011bstsk\u00e1 \u010d\u00e1st Praha-Petrovice",
+        "Profile": "/subjekt/00231363",
+        "SocialniSite": [
+            {
+                "Id": "https://www.youtube.com/playlist?list=UUgtCYef0epZtGAJG7LAq82Q",
+                "Type": "Youtube",
+                "Url": "https://www.youtube.com/playlist?list=UUgtCYef0epZtGAJG7LAq82Q"
+            }
+        ]
+    },
+    {
+        "Ico": "44992785",
+        "Jmeno": "Statut\u00e1rn\u00ed m\u011bsto Brno",
+        "Profile": "/subjekt/44992785",
+        "SocialniSite": [
+            {
+                "Id": "https://www.youtube.com/playlist?list=UUq8_jOYq9ZyT-r7QfRoTyEg",
+                "Type": "Youtube",
+                "Url": "https://www.youtube.com/playlist?list=UUq8_jOYq9ZyT-r7QfRoTyEg"
+            },
+            {
+                "Id": "https://www.youtube.com/playlist?list=PLX0T4zc2REU5qwcp4TQEefoUbYTtWSjte",
+                "Type": "Youtube",
+                "Url": "https://www.youtube.com/playlist?list=PLX0T4zc2REU5qwcp4TQEefoUbYTtWSjte"
+            }
+        ]
+    },
+    {
+        "Ico": "00845451",
+        "Jmeno": "Statut\u00e1rn\u00ed m\u011bsto Ostrava",
+        "Profile": "/subjekt/00845451",
+        "SocialniSite": [
+            {
+                "Id": "https://www.youtube.com/playlist?list=PLNAe1TTmbKs5LpoJLPXQqVMSIITuMinaz",
+                "Type": "Youtube",
+                "Url": "https://www.youtube.com/playlist?list=PLNAe1TTmbKs5LpoJLPXQqVMSIITuMinaz"
+            }
+        ]
+    },
+    {
+        "Ico": "00282651",
+        "Jmeno": "M\u011bsto \u0160lapanice",
+        "Profile": "/subjekt/00282651",
+        "SocialniSite": [
+            {
+                "Id": "https://www.youtube.com/playlist?list=PLAbL0DLrNtoDQzPw7Q-s49Cbnl2YsO41L",
+                "Type": "Youtube",
+                "Url": "https://www.youtube.com/playlist?list=PLAbL0DLrNtoDQzPw7Q-s49Cbnl2YsO41L"
+            }
+        ]
+    },
+    {
+        "Ico": "00244732",
+        "Jmeno": "Statut\u00e1rn\u00ed m\u011bsto \u010cesk\u00e9 Bud\u011bjovice",
+        "Profile": "/subjekt/00244732",
+        "SocialniSite": [
+            {
+                "Id": "https://www.youtube.com/playlist?list=UU62YOcYAoP_6QSnsmNG8FDA",
+                "Type": "Youtube",
+                "Url": "https://www.youtube.com/playlist?list=UU62YOcYAoP_6QSnsmNG8FDA"
+            }
+        ]
+    },
+    {
+        "Ico": "00296643",
+        "Jmeno": "Statut\u00e1rn\u00ed m\u011bsto Fr\u00fddek-M\u00edstek",
+        "Profile": "/subjekt/00296643",
+        "SocialniSite": [
+            {
+                "Id": "https://www.youtube.com/playlist?list=UU0PmJs7r0fbkMPHxwKBnAag",
+                "Type": "Youtube",
+                "Url": "https://www.youtube.com/playlist?list=UU0PmJs7r0fbkMPHxwKBnAag"
+            }
+        ]
+    },
+    {
+        "Ico": "00262978",
+        "Jmeno": "STATUT\u00c1RN\u00cd M\u011aSTO LIBEREC",
+        "Profile": "/subjekt/00262978",
+        "SocialniSite": [
+            {
+                "Id": "https://www.youtube.com/playlist?list=PLIS0ZjLDV7NgumMci1bQXUwCcppPn_WMj",
+                "Type": "Youtube",
+                "Url": "https://www.youtube.com/playlist?list=PLIS0ZjLDV7NgumMci1bQXUwCcppPn_WMj"
+            }
+        ]
+    },
+    {
+        "Ico": "00301825",
+        "Jmeno": "Statut\u00e1rn\u00ed m\u011bsto P\u0159erov",
+        "Profile": "/subjekt/00301825",
+        "SocialniSite": [
+            {
+                "Id": "https://www.youtube.com/playlist?list=PLEdQ8-uY9vjGQF9COUbsuOIQtRf8ypD-7",
+                "Type": "Youtube",
+                "Url": "https://www.youtube.com/playlist?list=PLEdQ8-uY9vjGQF9COUbsuOIQtRf8ypD-7"
+            }
+        ]
+    },
+    {
+        "Ico": "00081531",
+        "Jmeno": "Statut\u00e1rn\u00ed m\u011bsto \u00dast\u00ed nad Labem",
+        "Profile": "/subjekt/00081531",
+        "SocialniSite": [
+            {
+                "Id": "https://www.youtube.com/playlist?list=PLiv42zTeeImzSwjU0jY-BmMECOxhL4N8t",
+                "Type": "Youtube",
+                "Url": "https://www.youtube.com/playlist?list=PLiv42zTeeImzSwjU0jY-BmMECOxhL4N8t"
+            },
+            {
+                "Id": "https://www.usti-nad-labem.cz/cz/",
+                "Type": "WWW",
+                "Url": "https://www.usti-nad-labem.cz/cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "00063410",
+        "Jmeno": "M\u011bstsk\u00e1 \u010d\u00e1st Praha 1",
+        "Profile": "/subjekt/00063410",
+        "SocialniSite": [
+            {
+                "Id": "https://www.youtube.com/playlist?list=PLHjEfdwo1lnGd7xEkVSIHWqsYCG8PCxRX",
+                "Type": "Youtube",
+                "Url": "https://www.youtube.com/playlist?list=PLHjEfdwo1lnGd7xEkVSIHWqsYCG8PCxRX"
+            }
+        ]
+    },
+    {
+        "Ico": "70891508",
+        "Jmeno": "Libereck\u00fd kraj",
+        "Profile": "/subjekt/70891508",
+        "SocialniSite": [
+            {
+                "Id": "https://www.youtube.com/playlist?list=PLeYBMd0vOnnG-oLoviRD1DBL3FrntIAvp",
+                "Type": "Youtube",
+                "Url": "https://www.youtube.com/playlist?list=PLeYBMd0vOnnG-oLoviRD1DBL3FrntIAvp"
+            },
+            {
+                "Id": "https://www.kraj-lbc.cz/",
+                "Type": "WWW",
+                "Url": "https://www.kraj-lbc.cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "00297577",
+        "Jmeno": "M\u011bsto Orlov\u00e1",
+        "Profile": "/subjekt/00297577",
+        "SocialniSite": [
+            {
+                "Id": "https://www.youtube.com/playlist?list=PLsgGzWYtC1tlVAZCerYo-lGk1ItxoCAgM",
+                "Type": "Youtube",
+                "Url": "https://www.youtube.com/playlist?list=PLsgGzWYtC1tlVAZCerYo-lGk1ItxoCAgM"
+            }
+        ]
+    },
+    {
+        "Ico": "00279943",
+        "Jmeno": "M\u011bsto Blansko",
+        "Profile": "/subjekt/00279943",
+        "SocialniSite": [
+            {
+                "Id": "https://www.youtube.com/playlist?list=UU3pbbJt2EHlRqa39GhPyeZg",
+                "Type": "Youtube",
+                "Url": "https://www.youtube.com/playlist?list=UU3pbbJt2EHlRqa39GhPyeZg"
+            }
+        ]
+    },
+    {
+        "Ico": "00281701",
+        "Jmeno": "M\u011bsto Doln\u00ed Kounice",
+        "Profile": "/subjekt/00281701",
+        "SocialniSite": [
+            {
+                "Id": "https://www.youtube.com/playlist?list=PLLkOKJxyhqsElXUpiQr3LUnFXEaj9auUG",
+                "Type": "Youtube",
+                "Url": "https://www.youtube.com/playlist?list=PLLkOKJxyhqsElXUpiQr3LUnFXEaj9auUG"
+            }
+        ]
+    },
+    {
+        "Ico": "00282707",
+        "Jmeno": "M\u011bsto Ti\u0161nov",
+        "Profile": "/subjekt/00282707",
+        "SocialniSite": [
+            {
+                "Id": "https://www.youtube.com/playlist?list=UUUbvHCrulJ7uBN0Us_9GbwQ",
+                "Type": "Youtube",
+                "Url": "https://www.youtube.com/playlist?list=UUUbvHCrulJ7uBN0Us_9GbwQ"
+            }
+        ]
+    },
+    {
+        "Ico": "00270211",
+        "Jmeno": "M\u011bsto Chrudim",
+        "Profile": "/subjekt/00270211",
+        "SocialniSite": [
+            {
+                "Id": "https://www.youtube.com/playlist?list=PLuT1bH3F_o3wDWnp0hxw4ZdV55zjPdqDH",
+                "Type": "Youtube",
+                "Url": "https://www.youtube.com/playlist?list=PLuT1bH3F_o3wDWnp0hxw4ZdV55zjPdqDH"
+            }
+        ]
+    },
+    {
+        "Ico": "00287351",
+        "Jmeno": "M\u011bsto Krom\u011b\u0159\u00ed\u017e",
+        "Profile": "/subjekt/00287351",
+        "SocialniSite": [
+            {
+                "Id": "https://www.youtube.com/playlist?list=UUBDmEWZJ27M74E6JRrxp7Bg",
+                "Type": "Youtube",
+                "Url": "https://www.youtube.com/playlist?list=UUBDmEWZJ27M74E6JRrxp7Bg"
+            }
+        ]
+    },
+    {
+        "Ico": "00236195",
+        "Jmeno": "M\u011bsto Kutn\u00e1 Hora",
+        "Profile": "/subjekt/00236195",
+        "SocialniSite": [
+            {
+                "Id": "https://www.youtube.com/playlist?list=PLADDb1TqZw-RO90q9T-tn8vd-7ZaGoS_b",
+                "Type": "Youtube",
+                "Url": "https://www.youtube.com/playlist?list=PLADDb1TqZw-RO90q9T-tn8vd-7ZaGoS_b"
+            }
+        ]
+    },
+    {
+        "Ico": "00263958",
+        "Jmeno": "M\u011bsto Litom\u011b\u0159ice",
+        "Profile": "/subjekt/00263958",
+        "SocialniSite": [
+            {
+                "Id": "https://www.youtube.com/playlist?list=PLTHsG2HBfqvVX6oiSKGQ8aJ83LHLOMeZF",
+                "Type": "Youtube",
+                "Url": "https://www.youtube.com/playlist?list=PLTHsG2HBfqvVX6oiSKGQ8aJ83LHLOMeZF"
+            },
+            {
+                "Id": "https://www.litomerice.cz/",
+                "Type": "WWW",
+                "Url": "https://www.litomerice.cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "00265209",
+        "Jmeno": "M\u011bsto Louny",
+        "Profile": "/subjekt/00265209",
+        "SocialniSite": [
+            {
+                "Id": "https://www.youtube.com/playlist?list=UUISZq_Z-mEU03mOQfNOphlg",
+                "Type": "Youtube",
+                "Url": "https://www.youtube.com/playlist?list=UUISZq_Z-mEU03mOQfNOphlg"
+            },
+            {
+                "Id": "https://www.mulouny.cz/",
+                "Type": "WWW",
+                "Url": "https://www.mulouny.cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "00272680",
+        "Jmeno": "M\u011aSTO HRONOV",
+        "Profile": "/subjekt/00272680",
+        "SocialniSite": [
+            {
+                "Id": "https://www.youtube.com/playlist?list=UU7FpXA3HsEigahn1EsMxx7Q",
+                "Type": "Youtube",
+                "Url": "https://www.youtube.com/playlist?list=UU7FpXA3HsEigahn1EsMxx7Q"
+            }
+        ]
+    },
+    {
+        "Ico": "00241318",
+        "Jmeno": "M\u011bsto Jesenice",
+        "Profile": "/subjekt/00241318",
+        "SocialniSite": [
+            {
+                "Id": "https://www.youtube.com/playlist?list=PLjNxjaqkU1oLsU041pFjELOdzQf0nF6f3",
+                "Type": "Youtube",
+                "Url": "https://www.youtube.com/playlist?list=PLjNxjaqkU1oLsU041pFjELOdzQf0nF6f3"
+            }
+        ]
+    },
+    {
+        "Ico": "00259586",
+        "Jmeno": "M\u011bsto Sokolov",
+        "Profile": "/subjekt/00259586",
+        "SocialniSite": [
+            {
+                "Id": "https://www.youtube.com/playlist?list=UUc7XuV0JQyZ1D9ZJUm4lObQ",
+                "Type": "Youtube",
+                "Url": "https://www.youtube.com/playlist?list=UUc7XuV0JQyZ1D9ZJUm4lObQ"
+            }
+        ]
+    },
+    {
+        "Ico": "00289931",
+        "Jmeno": "M\u011bsto Moravsk\u00e9 Bud\u011bjovice",
+        "Profile": "/subjekt/00289931",
+        "SocialniSite": [
+            {
+                "Id": "https://www.youtube.com/playlist?list=UUvI-apNYGxfCqZmKH8JJRDw",
+                "Type": "Youtube",
+                "Url": "https://www.youtube.com/playlist?list=UUvI-apNYGxfCqZmKH8JJRDw"
+            }
+        ]
+    },
+    {
+        "Ico": "00293881",
+        "Jmeno": "M\u011bsto Znojmo",
+        "Profile": "/subjekt/00293881",
+        "SocialniSite": [
+            {
+                "Id": "https://www.youtube.com/playlist?list=UUiiBRqw6nZqjjr5c6it5Cfg",
+                "Type": "Youtube",
+                "Url": "https://www.youtube.com/playlist?list=UUiiBRqw6nZqjjr5c6it5Cfg"
+            }
+        ]
+    },
+    {
+        "Ico": "00279978",
+        "Jmeno": "M\u011bsto Boskovice",
+        "Profile": "/subjekt/00279978",
+        "SocialniSite": [
+            {
+                "Id": "https://www.youtube.com/playlist?list=PLFLEqpKUiflYcmH5gR0tgCEoHIQaQbILj",
+                "Type": "Youtube",
+                "Url": "https://www.youtube.com/playlist?list=PLFLEqpKUiflYcmH5gR0tgCEoHIQaQbILj"
+            }
+        ]
+    },
+    {
+        "Ico": "70890650",
+        "Jmeno": "Jiho\u010desk\u00fd kraj",
+        "Profile": "/subjekt/70890650",
+        "SocialniSite": [
+            {
+                "Id": "https://www.kraj-jihocesky.cz/",
+                "Type": "WWW",
+                "Url": "https://www.kraj-jihocesky.cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "70888337",
+        "Jmeno": "Jihomoravsk\u00fd kraj",
+        "Profile": "/subjekt/70888337",
+        "SocialniSite": [
+            {
+                "Id": "https://www.kr-jihomoravsky.cz/",
+                "Type": "WWW",
+                "Url": "https://www.kr-jihomoravsky.cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "70891168",
+        "Jmeno": "Karlovarsk\u00fd kraj",
+        "Profile": "/subjekt/70891168",
+        "SocialniSite": [
+            {
+                "Id": "https://www.kr-karlovarsky.cz/",
+                "Type": "WWW",
+                "Url": "https://www.kr-karlovarsky.cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "70890692",
+        "Jmeno": "Moravskoslezsk\u00fd kraj",
+        "Profile": "/subjekt/70890692",
+        "SocialniSite": [
+            {
+                "Id": "https://www.msk.cz/",
+                "Type": "WWW",
+                "Url": "https://www.msk.cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "60609460",
+        "Jmeno": "Olomouck\u00fd kraj",
+        "Profile": "/subjekt/60609460",
+        "SocialniSite": [
+            {
+                "Id": "https://www.olkraj.cz/",
+                "Type": "WWW",
+                "Url": "https://www.olkraj.cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "70892822",
+        "Jmeno": "Pardubick\u00fd kraj",
+        "Profile": "/subjekt/70892822",
+        "SocialniSite": [
+            {
+                "Id": "https://www.pardubickykraj.cz/",
+                "Type": "WWW",
+                "Url": "https://www.pardubickykraj.cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "70890366",
+        "Jmeno": "Plze\u0148sk\u00fd kraj",
+        "Profile": "/subjekt/70890366",
+        "SocialniSite": [
+            {
+                "Id": "https://www.plzensky-kraj.cz/",
+                "Type": "WWW",
+                "Url": "https://www.plzensky-kraj.cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "00064581",
+        "Jmeno": "HLAVN\u00cd M\u011aSTO PRAHA",
+        "Profile": "/subjekt/00064581",
+        "SocialniSite": [
+            {
+                "Id": "https://www.praha.eu/",
+                "Type": "WWW",
+                "Url": "https://www.praha.eu/"
+            }
+        ]
+    },
+    {
+        "Ico": "70892156",
+        "Jmeno": "\u00dasteck\u00fd kraj",
+        "Profile": "/subjekt/70892156",
+        "SocialniSite": [
+            {
+                "Id": "https://www.kr-ustecky.cz/",
+                "Type": "WWW",
+                "Url": "https://www.kr-ustecky.cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "70890749",
+        "Jmeno": "Kraj Vyso\u010dina",
+        "Profile": "/subjekt/70890749",
+        "SocialniSite": [
+            {
+                "Id": "https://www.kr-vysocina.cz/",
+                "Type": "WWW",
+                "Url": "https://www.kr-vysocina.cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "70891320",
+        "Jmeno": "Zl\u00ednsk\u00fd kraj",
+        "Profile": "/subjekt/70891320",
+        "SocialniSite": [
+            {
+                "Id": "https://www.kr-zlinsky.cz/",
+                "Type": "WWW",
+                "Url": "https://www.kr-zlinsky.cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "70875308",
+        "Jmeno": "Domov se zvl\u00e1\u0161tn\u00edm re\u017eimem Terez\u00edn",
+        "Profile": "/subjekt/70875308",
+        "SocialniSite": [
+            {
+                "Id": "https://www.domovterezin.cz/",
+                "Type": "WWW",
+                "Url": "https://www.domovterezin.cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "49872541",
+        "Jmeno": "Domovy soci\u00e1ln\u00edch slu\u017eeb Litv\u00ednov, p\u0159\u00edsp\u011bvkov\u00e1 organizace",
+        "Profile": "/subjekt/49872541",
+        "SocialniSite": [
+            {
+                "Id": "http://www.dsslitvinov.cz/uvod.html",
+                "Type": "WWW",
+                "Url": "http://www.dsslitvinov.cz/uvod.html"
+            }
+        ]
+    },
+    {
+        "Ico": "64053466",
+        "Jmeno": "Dopravn\u00ed podnik m\u011bst Chomutova a Jirkova a.s.",
+        "Profile": "/subjekt/64053466",
+        "SocialniSite": [
+            {
+                "Id": "https://www.dpchj.cz/",
+                "Type": "WWW",
+                "Url": "https://www.dpchj.cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "62242504",
+        "Jmeno": "DOPRAVN\u00cd PODNIK m\u011bst Mostu a Litv\u00ednova, a.s.",
+        "Profile": "/subjekt/62242504",
+        "SocialniSite": [
+            {
+                "Id": "http://www.dpmost.cz/",
+                "Type": "WWW",
+                "Url": "http://www.dpmost.cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "62240935",
+        "Jmeno": "Dopravn\u00ed podnik m\u011bsta D\u011b\u010d\u00edna, a.s.",
+        "Profile": "/subjekt/62240935",
+        "SocialniSite": [
+            {
+                "Id": "https://www.dpmdas.cz/",
+                "Type": "WWW",
+                "Url": "https://www.dpmdas.cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "06231292",
+        "Jmeno": "Dopravn\u00ed spole\u010dnost \u00dasteck\u00e9ho kraje, p\u0159\u00edsp\u011bvkov\u00e1 organizace",
+        "Profile": "/subjekt/06231292",
+        "SocialniSite": [
+            {
+                "Id": "https://www.ds-uk.cz/",
+                "Type": "WWW",
+                "Url": "https://www.ds-uk.cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "00081221",
+        "Jmeno": "D\u016fm kultury Teplice",
+        "Profile": "/subjekt/00081221",
+        "SocialniSite": [
+            {
+                "Id": "http://www.dkteplice.cz/domaci-stranka.html",
+                "Type": "WWW",
+                "Url": "http://www.dkteplice.cz/domaci-stranka.html"
+            }
+        ]
+    },
+    {
+        "Ico": "70886300",
+        "Jmeno": "Hasi\u010dsk\u00fd z\u00e1chrann\u00fd sbor \u00dasteck\u00e9ho kraje",
+        "Profile": "/subjekt/70886300",
+        "SocialniSite": [
+            {
+                "Id": "https://www.hzscr.cz/hzs-usteckeho-kraje.aspx",
+                "Type": "WWW",
+                "Url": "https://www.hzscr.cz/hzs-usteckeho-kraje.aspx"
+            }
+        ]
+    },
+    {
+        "Ico": "27341313",
+        "Jmeno": "CHOMUTOVSK\u00c1 BYTOV\u00c1 a.s.",
+        "Profile": "/subjekt/27341313",
+        "SocialniSite": [
+            {
+                "Id": "http://www.chomutovska-bytova.cz/",
+                "Type": "WWW",
+                "Url": "http://www.chomutovska-bytova.cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "00829048",
+        "Jmeno": "Krajsk\u00e1 majetkov\u00e1, p\u0159\u00edsp\u011bvkov\u00e1 organizace",
+        "Profile": "/subjekt/00829048",
+        "SocialniSite": [
+            {
+                "Id": "https://www.krajskamajetkova.cz/",
+                "Type": "WWW",
+                "Url": "https://www.krajskamajetkova.cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "25488627",
+        "Jmeno": "Krajsk\u00e1 zdravotn\u00ed, a.s.",
+        "Profile": "/subjekt/25488627",
+        "SocialniSite": [
+            {
+                "Id": "https://www.kzcr.eu/",
+                "Type": "WWW",
+                "Url": "https://www.kzcr.eu/"
+            }
+        ]
+    },
+    {
+        "Ico": "75151537",
+        "Jmeno": "Krajsk\u00e9 \u0159editelstv\u00ed policie \u00dasteck\u00e9ho kraje",
+        "Profile": "/subjekt/75151537",
+        "SocialniSite": [
+            {
+                "Id": "https://www.policie.cz/ustecky-kraj.aspx",
+                "Type": "WWW",
+                "Url": "https://www.policie.cz/ustecky-kraj.aspx"
+            }
+        ]
+    },
+    {
+        "Ico": "00215708",
+        "Jmeno": "Krajsk\u00fd soud v \u00dast\u00ed nad Labem",
+        "Profile": "/subjekt/00215708",
+        "SocialniSite": [
+            {
+                "Id": "https://www.justice.cz/web/krajsky-soud-v-usti-nad-labem",
+                "Type": "WWW",
+                "Url": "https://www.justice.cz/web/krajsky-soud-v-usti-nad-labem"
+            }
+        ]
+    },
+    {
+        "Ico": "47308095",
+        "Jmeno": "KULTURA A SPORT CHOMUTOV s.r.o.",
+        "Profile": "/subjekt/47308095",
+        "SocialniSite": [
+            {
+                "Id": "https://www.kultura-sport.cz/",
+                "Type": "WWW",
+                "Url": "https://www.kultura-sport.cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "00266230",
+        "Jmeno": "M\u011bsto B\u00edlina",
+        "Profile": "/subjekt/00266230",
+        "SocialniSite": [
+            {
+                "Id": "https://www.bilina.cz/",
+                "Type": "WWW",
+                "Url": "https://www.bilina.cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "00261220",
+        "Jmeno": "M\u011bsto \u010cesk\u00e1 Kamenice",
+        "Profile": "/subjekt/00261220",
+        "SocialniSite": [
+            {
+                "Id": "https://www.ceska-kamenice.cz/",
+                "Type": "WWW",
+                "Url": "https://www.ceska-kamenice.cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "00261912",
+        "Jmeno": "M\u011bsto Kada\u0148",
+        "Profile": "/subjekt/00261912",
+        "SocialniSite": [
+            {
+                "Id": "https://www.mesto-kadan.cz/",
+                "Type": "WWW",
+                "Url": "https://www.mesto-kadan.cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "00266027",
+        "Jmeno": "M\u011bsto Litv\u00ednov",
+        "Profile": "/subjekt/00266027",
+        "SocialniSite": [
+            {
+                "Id": "https://www.mulitvinov.cz/",
+                "Type": "WWW",
+                "Url": "https://www.mulitvinov.cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "00263991",
+        "Jmeno": "M\u011bsto Lovosice",
+        "Profile": "/subjekt/00263991",
+        "SocialniSite": [
+            {
+                "Id": "https://www.meulovo.cz/",
+                "Type": "WWW",
+                "Url": "https://www.meulovo.cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "00265365",
+        "Jmeno": "M\u011bsto Podbo\u0159any",
+        "Profile": "/subjekt/00265365",
+        "SocialniSite": [
+            {
+                "Id": "https://www.podborany.net/",
+                "Type": "WWW",
+                "Url": "https://www.podborany.net/"
+            }
+        ]
+    },
+    {
+        "Ico": "00264334",
+        "Jmeno": "M\u011bsto Roudnice nad Labem",
+        "Profile": "/subjekt/00264334",
+        "SocialniSite": [
+            {
+                "Id": "https://www.roudnicenl.cz/",
+                "Type": "WWW",
+                "Url": "https://www.roudnicenl.cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "00261602",
+        "Jmeno": "M\u011bsto Rumburk",
+        "Profile": "/subjekt/00261602",
+        "SocialniSite": [
+            {
+                "Id": "https://www.rumburk.cz/",
+                "Type": "WWW",
+                "Url": "https://www.rumburk.cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "00261718",
+        "Jmeno": "M\u011bsto Varnsdorf",
+        "Profile": "/subjekt/00261718",
+        "SocialniSite": [
+            {
+                "Id": "https://www.varnsdorf.cz/cz/",
+                "Type": "WWW",
+                "Url": "https://www.varnsdorf.cz/cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "44557141",
+        "Jmeno": "M\u011bstsk\u00e1 kulturn\u00ed za\u0159\u00edzen\u00ed v Litom\u011b\u0159ic\u00edch",
+        "Profile": "/subjekt/44557141",
+        "SocialniSite": [
+            {
+                "Id": "https://www.mkz-ltm.cz/",
+                "Type": "WWW",
+                "Url": "https://www.mkz-ltm.cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "71238301",
+        "Jmeno": "M\u011bstsk\u00e9 slu\u017eby \u00dast\u00ed nad Labem, p\u0159\u00edsp\u011bvkov\u00e1 organizace",
+        "Profile": "/subjekt/71238301",
+        "SocialniSite": [
+            {
+                "Id": "https://www.msul.cz/",
+                "Type": "WWW",
+                "Url": "https://www.msul.cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "25439022",
+        "Jmeno": "Metropolnet, a.s.",
+        "Profile": "/subjekt/25439022",
+        "SocialniSite": [
+            {
+                "Id": "http://www.metropolnet.cz/",
+                "Type": "WWW",
+                "Url": "http://www.metropolnet.cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "25438832",
+        "Jmeno": "MOSTECK\u00c1 BYTOV\u00c1, a.s.",
+        "Profile": "/subjekt/25438832",
+        "SocialniSite": [
+            {
+                "Id": "https://www.mosteckabytova.cz/cz",
+                "Type": "WWW",
+                "Url": "https://www.mosteckabytova.cz/cz"
+            }
+        ]
+    },
+    {
+        "Ico": "00361321",
+        "Jmeno": "Muzeum m\u011bsta \u00dast\u00ed nad Labem, p\u0159\u00edsp\u011bvkov\u00e1 organizace",
+        "Profile": "/subjekt/00361321",
+        "SocialniSite": [
+            {
+                "Id": "http://www.muzeumusti.cz/",
+                "Type": "WWW",
+                "Url": "http://www.muzeumusti.cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "25479300",
+        "Jmeno": "Nemocnice Kada\u0148 s.r.o.",
+        "Profile": "/subjekt/25479300",
+        "SocialniSite": [
+            {
+                "Id": "https://www.nemkadan.cz/",
+                "Type": "WWW",
+                "Url": "https://www.nemkadan.cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "06199518",
+        "Jmeno": "Nemocnice Litom\u011b\u0159ice, a.s.",
+        "Profile": "/subjekt/06199518",
+        "SocialniSite": [
+            {
+                "Id": "https://www.nemocnice-lt.cz/",
+                "Type": "WWW",
+                "Url": "https://www.nemocnice-lt.cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "25026259",
+        "Jmeno": "Nemocnice \u017datec, o.p.s.",
+        "Profile": "/subjekt/25026259",
+        "SocialniSite": [
+            {
+                "Id": "http://www.nemzatec.cz/",
+                "Type": "WWW",
+                "Url": "http://www.nemzatec.cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "00007536",
+        "Jmeno": "Palivov\u00fd kombin\u00e1t \u00dast\u00ed, st\u00e1tn\u00ed podnik",
+        "Profile": "/subjekt/00007536",
+        "SocialniSite": [
+            {
+                "Id": "https://www.pku.cz/",
+                "Type": "WWW",
+                "Url": "https://www.pku.cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "00177288",
+        "Jmeno": "Pam\u00e1tn\u00edk Terez\u00edn",
+        "Profile": "/subjekt/00177288",
+        "SocialniSite": [
+            {
+                "Id": "https://www.pamatnik-terezin.cz/",
+                "Type": "WWW",
+                "Url": "https://www.pamatnik-terezin.cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "70889988",
+        "Jmeno": "Povod\u00ed Oh\u0159e, st\u00e1tn\u00ed podnik",
+        "Profile": "/subjekt/70889988",
+        "SocialniSite": [
+            {
+                "Id": "https://www.poh.cz/",
+                "Type": "WWW",
+                "Url": "https://www.poh.cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "00673552",
+        "Jmeno": "Psychiatrick\u00e1 nemocnice Horn\u00ed Be\u0159kovice",
+        "Profile": "/subjekt/00673552",
+        "SocialniSite": [
+            {
+                "Id": "https://www.pnhberkovice.cz/cs/",
+                "Type": "WWW",
+                "Url": "https://www.pnhberkovice.cz/cs/"
+            }
+        ]
+    },
+    {
+        "Ico": "75082136",
+        "Jmeno": "Region\u00e1ln\u00ed rada regionu soudr\u017enosti Severoz\u00e1pad",
+        "Profile": "/subjekt/75082136",
+        "SocialniSite": [
+            {
+                "Id": "http://www.nuts2severozapad.cz/",
+                "Type": "WWW",
+                "Url": "http://www.nuts2severozapad.cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "46773851",
+        "Jmeno": "Roudnick\u00e9 m\u011bstsk\u00e9 slu\u017eby, p\u0159\u00edsp\u011bvkov\u00e1 organizace",
+        "Profile": "/subjekt/46773851",
+        "SocialniSite": [
+            {
+                "Id": "http://www.rms.rete.cz/",
+                "Type": "WWW",
+                "Url": "http://www.rms.rete.cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "49099469",
+        "Jmeno": "Severo\u010desk\u00e1 vod\u00e1rensk\u00e1 spole\u010dnost a.s.",
+        "Profile": "/subjekt/49099469",
+        "SocialniSite": [
+            {
+                "Id": "https://www.svs.cz/cz/",
+                "Type": "WWW",
+                "Url": "https://www.svs.cz/cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "49099451",
+        "Jmeno": "Severo\u010desk\u00e9 vodovody a kanalizace, a.s.",
+        "Profile": "/subjekt/49099451",
+        "SocialniSite": [
+            {
+                "Id": "https://www.scvk.cz/",
+                "Type": "WWW",
+                "Url": "https://www.scvk.cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "25044001",
+        "Jmeno": "SPORTOVN\u00cd HALA MOST, a.s.",
+        "Profile": "/subjekt/25044001",
+        "SocialniSite": [
+            {
+                "Id": "http://www.sportovnihalamost.cz/",
+                "Type": "WWW",
+                "Url": "http://www.sportovnihalamost.cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "00080837",
+        "Jmeno": "Spr\u00e1va a \u00fadr\u017eba silnic \u00dasteck\u00e9ho kraje, p\u0159\u00edsp\u011bvkov\u00e1 organizace",
+        "Profile": "/subjekt/00080837",
+        "SocialniSite": [
+            {
+                "Id": "https://www.susuk.cz/",
+                "Type": "WWW",
+                "Url": "https://www.susuk.cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "47324210",
+        "Jmeno": "Spr\u00e1va m\u011bstsk\u00fdch les\u016f Most, p\u0159\u00edsp\u011bvkov\u00e1 organizace",
+        "Profile": "/subjekt/47324210",
+        "SocialniSite": [
+            {
+                "Id": "http://www.lesymost.cz/",
+                "Type": "WWW",
+                "Url": "http://www.lesymost.cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "06342477",
+        "Jmeno": "Spr\u00e1va N\u00e1rodn\u00edho parku \u010cesk\u00e9 \u0160v\u00fdcarsko",
+        "Profile": "/subjekt/06342477",
+        "SocialniSite": [
+            {
+                "Id": "https://www.npcs.cz/",
+                "Type": "WWW",
+                "Url": "https://www.npcs.cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "70979464",
+        "Jmeno": "St\u00e1tn\u00ed oblastn\u00ed archiv v Litom\u011b\u0159ic\u00edch",
+        "Profile": "/subjekt/70979464",
+        "SocialniSite": [
+            {
+                "Id": "http://www.soalitomerice.cz/",
+                "Type": "WWW",
+                "Url": "http://www.soalitomerice.cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "00266094",
+        "Jmeno": "Statut\u00e1rn\u00ed m\u011bsto Most",
+        "Profile": "/subjekt/00266094",
+        "SocialniSite": [
+            {
+                "Id": "https://www.mesto-most.cz/",
+                "Type": "WWW",
+                "Url": "https://www.mesto-most.cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "00125423",
+        "Jmeno": "St\u0159edn\u00ed \u0161kola technick\u00e1, Most, p\u0159\u00edsp\u011bvkov\u00e1 organizace",
+        "Profile": "/subjekt/00125423",
+        "SocialniSite": [
+            {
+                "Id": "http://www.sstmost.cz/cs/",
+                "Type": "WWW",
+                "Url": "http://www.sstmost.cz/cs/"
+            }
+        ]
+    },
+    {
+        "Ico": "00079065",
+        "Jmeno": "Technick\u00e9 slu\u017eby m\u011bsta Chomutova, p\u0159\u00edsp\u011bvkov\u00e1 organizace",
+        "Profile": "/subjekt/00079065",
+        "SocialniSite": [
+            {
+                "Id": "http://www.tsmch.cz/",
+                "Type": "WWW",
+                "Url": "http://www.tsmch.cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "00080128",
+        "Jmeno": "Technick\u00e9 slu\u017eby m\u011bsta Litom\u011b\u0159ice, p\u0159\u00edsp\u011bvkov\u00e1 organizace",
+        "Profile": "/subjekt/00080128",
+        "SocialniSite": [
+            {
+                "Id": "https://www.tsmlt.cz/",
+                "Type": "WWW",
+                "Url": "https://www.tsmlt.cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "64052265",
+        "Jmeno": "Technick\u00e9 slu\u017eby m\u011bsta Mostu a.s.",
+        "Profile": "/subjekt/64052265",
+        "SocialniSite": [
+            {
+                "Id": "https://www.tsmost.cz/",
+                "Type": "WWW",
+                "Url": "https://www.tsmost.cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "44555601",
+        "Jmeno": "Univerzita Jana Evangelisty Purkyn\u011b v \u00dast\u00ed nad Labem",
+        "Profile": "/subjekt/44555601",
+        "SocialniSite": [
+            {
+                "Id": "https://www.ujep.cz/cs/",
+                "Type": "WWW",
+                "Url": "https://www.ujep.cz/cs/"
+            }
+        ]
+    },
+    {
+        "Ico": "71009361",
+        "Jmeno": "Zdravotn\u00ed \u00fastav se s\u00eddlem v \u00dast\u00ed nad Labem",
+        "Profile": "/subjekt/71009361",
+        "SocialniSite": [
+            {
+                "Id": "https://www.zuusti.cz/",
+                "Type": "WWW",
+                "Url": "https://www.zuusti.cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "00829013",
+        "Jmeno": "Zdravotnick\u00e1 z\u00e1chrann\u00e1 slu\u017eba \u00dasteck\u00e9ho kraje, p\u0159\u00edsp\u011bvkov\u00e1 organizace",
+        "Profile": "/subjekt/00829013",
+        "SocialniSite": [
+            {
+                "Id": "http://www.zzsuk.cz/",
+                "Type": "WWW",
+                "Url": "http://www.zzsuk.cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "00379719",
+        "Jmeno": "Zoopark Chomutov, p. o.",
+        "Profile": "/subjekt/00379719",
+        "SocialniSite": [
+            {
+                "Id": "https://zoopark.cz/",
+                "Type": "WWW",
+                "Url": "https://zoopark.cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "64650871",
+        "Jmeno": "\u017dateck\u00e1 tepl\u00e1rensk\u00e1, a.s.",
+        "Profile": "/subjekt/64650871",
+        "SocialniSite": [
+            {
+                "Id": "http://www.ztas.cz/",
+                "Type": "WWW",
+                "Url": "http://www.ztas.cz/"
+            }
+        ]
+    },
+    {
+        "Ico": "00242098",
+        "Jmeno": "M\u011bsto Dob\u0159\u00ed\u0161",
+        "Profile": "/subjekt/00242098",
+        "SocialniSite": [
+            {
+                "Id": "https://www.youtube.com/playlist?list=PLlOS5hlMJW7v2KKyhDnSLOe8l7Zybfokm",
+                "Type": "Youtube",
+                "Url": "https://www.youtube.com/playlist?list=PLlOS5hlMJW7v2KKyhDnSLOe8l7Zybfokm"
+            }
+        ]
+    }
+]

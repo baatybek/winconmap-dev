@@ -3,10 +3,10 @@ import jsonParser
 
 requestsHSAPI = RequestHSAPI.RequestHSAPI('../authorization.json')
 
-# url = /verejnezakazky/{id}
-# url = /verejnezakazky/hledat
+# url = verejnezakazky/{id}
+# url = verejnezakazky/hledat
 
-response = requestsHSAPI.request('smlouvy/vsechnaId')
+response = requestsHSAPI.request('verejnezakazky/hledat')
 
 print(response.status_code)
 
